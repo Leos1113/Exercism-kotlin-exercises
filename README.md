@@ -1,4 +1,4 @@
-Exercism.io Kotlin exercises
+# Exercism.io Kotlin exercises
 
 This repo is for pushing the exercises resolved from exercism.io
 
